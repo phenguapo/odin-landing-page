@@ -1,7 +1,25 @@
-# odin-landing-page
-assignment by theodinproject
+# ODIN/PHENGUAPO LANDING PAGE
 
-A landing page for my music project, made using only html and css. Fun project which helped me understand css animations and flexboxes a bit better. Will possibly come back in the future to add javascript.
+This repository contains HTML code for a web page showcasing my breakcore project.
 
-given inspiration for the project: https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png 
-                                   https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png
+## Code Overview
+
+The HTML file (`index.html`) is structured as follows:
+
+- **HTML Structure**: Basic structure with head and body sections.
+- **Header**: Contains the artist's name and a SoundCloud icon.
+- **Base**: Includes information about the artist and a "Follow" button.
+- **Main Section**: Showcases the latest tracks using SoundCloud iframes.
+- **Prefooter/Quote**: Displays a quote attributed to Aphex Twin.
+- **Card**: Includes a note about the page's creation and a button to learn more.
+- **Footer**: Links to the artist's GitHub and The Odin Project.
+
+## Notes
+
+- The SoundCloud embeds require an internet connection to load properly.
+- This code was created as an assignment for The Odin Project.
+- Adjustments to the CSS or script files may enhance the page's appearance or functionality.
+
+## License
+
+This project is licensed under the [MIT License](/LICENSE), allowing for both personal and commercial use with appropriate credit given.
